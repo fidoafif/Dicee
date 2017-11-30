@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Dicee</string>
+    <string name="buttonText">Role</string>
+
+    <!-- DESKRIPSI IMAGE -->
+    <string name="logo_image_desk">Dicee Logo</string>
+    <string name="left_dice_desk">Dice Left</string>
+    <string name="right_dice_desk">Dice Right</string>
+</resources>
